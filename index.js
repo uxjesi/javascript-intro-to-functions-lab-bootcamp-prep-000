@@ -2,7 +2,12 @@ var uppercase = "HELLO!"
 uppercase.toUpperCase() === uppercase
 
 var lowercase = 'hello!'
-lowerase.toLowerCase() === lowercase
+lowercase.toLowerCase() === lowercase
+
+var mixedCase = 'Hi there!'
+mixedCase.toLowerCase() === mixedCase
+
+mixedCase.toUpperCase() === mixedCase
 
 
 function shout(string) {
