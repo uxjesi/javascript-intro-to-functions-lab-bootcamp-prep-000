@@ -22,6 +22,6 @@ function logShout(string) {
   console.log(string.shout())
 }
 
-fuction logWhisper(string) {
+function logWhisper(string) {
   console.log(string.whisper())
 }
