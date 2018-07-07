@@ -25,3 +25,9 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase())
 }
+
+function sayHiToGradnma(string) {
+  return string("I can't hear you!") 
+  if string("I can't hear you") === string("I can't hear you!")
+  
+}
